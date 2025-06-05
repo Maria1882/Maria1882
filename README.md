@@ -29,6 +29,3 @@
 
 ## 🎯 **Objetivo**
 Consolidar mis habilidades en análisis de datos y programación para aportar soluciones innovadoras en la gestión de proyectos y contractual, optimizando recursos y mejorando la toma de decisiones.
-
----
---->
